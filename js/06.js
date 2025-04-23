@@ -22,4 +22,4 @@ const { nombre } = producto;
 const { nombre: nombreC } = cliente;
 
 console.log(nombre);
-console.log(nombreC);
+console.log(nombreC); // Recordando que no podemos tener dos variables del  mismo nombre
