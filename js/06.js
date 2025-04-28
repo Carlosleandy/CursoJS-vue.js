@@ -1,5 +1,5 @@
 ///Curso Vue.js : Introduccion a js. // Carlos Moreno
-// parte 5: Los Objeto (Destructuring a 2 o mas objetos)
+// parte 6: Los Objeto (Destructuring a 2 o mas objetos)
 
 // ------------------------------- Destructuring a 2 o mas objetos -----------------------------------
 
@@ -8,7 +8,7 @@ const producto = {
   presio: 10000,
   disponible: true,
 };
-
+//...
 const cliente = {
   nombre: "Leandy",
   vip: true,

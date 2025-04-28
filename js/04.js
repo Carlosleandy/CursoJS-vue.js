@@ -16,7 +16,7 @@ const Producto2 = {
   presio: 2000,
   disponible: true,
 };
-
+// .... 
 console.log(Producto2);
 console.table(Producto2); // para ver el objeto en forma de tabla
 

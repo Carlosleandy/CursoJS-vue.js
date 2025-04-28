@@ -37,7 +37,7 @@ console.log(numero1 + numero2 + numero3);
 
 //console.log(numero1 + numeroGrande);
 /* da error Uncaught TypeError: Cannot mix BigInt and other types, use explicit conversions
- De la una forma que covertirlo a tipo de numero
+De la una forma que covertirlo a tipo de numero
 */
 //Ejemplo
 console.log(numero2 + Number(numeroGrande));

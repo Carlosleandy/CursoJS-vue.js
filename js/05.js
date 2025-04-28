@@ -28,3 +28,21 @@ console.table(Producto02);
 
 //Object.freeze(Producto03);
 //Object.seal(Producto03);
+
+const nombres ={
+  empleadoUno : "Carlos",
+  empleadoDos : "Yanser",
+  EmpleadoTres : "Nesser",
+  DirectorUno: "Belen",
+  EmpleadoCuatro : "wascar"
+}
+
+console.table(nombres)
+
+// Modificancion del nombre de un empelado 
+
+nombres.empleadoUno = "Leandy"
+
+console.table(nombres)
+
+// las propiedades const no se pueden reasignar, pero los objeto const si. 
